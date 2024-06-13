@@ -2,16 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+# Output
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ApiData
+![onboard](https://github.com/aankitsanvedi/Platzi_Api_Integration/assets/170505504/41137c46-a4d5-48af-9778-0ffdc9a0dd54)
+![login](https://github.com/aankitsanvedi/Platzi_Api_Integration/assets/170505504/bf854d1f-fc00-4714-957c-cdcd0e037845)
+![signup](https://github.com/aankitsanvedi/Platzi_Api_Integration/assets/170505504/a331366c-0c40-44f2-bef2-ee55c907404e)
+![selectImg](https://github.com/aankitsanvedi/Platzi_Api_Integration/assets/170505504/0d78aac7-49ed-4b7f-a7b3-df2632092f4c)
+![UserDetails](https://github.com/aankitsanvedi/Platzi_Api_Integration/assets/170505504/7261626d-624d-470a-b76d-297bc4520c3b)
+![AtmCard](https://github.com/aankitsanvedi/Platzi_Api_Integration/assets/170505504/8e9384c5-b049-4745-b63c-e34ddb155019)
+![home](https://github.com/aankitsanvedi/Platzi_Api_Integration/assets/170505504/2e095cb4-2392-41c8-baba-477f200caab4)
+![ProductDetails](https://github.com/aankitsanvedi/Platzi_Api_Integration/assets/170505504/4df52dbb-b6ee-4e5d-a16d-4f46ea3f327e)
